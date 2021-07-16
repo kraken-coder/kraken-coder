@@ -9,3 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love video games and cooking. 
 
+
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/azim-ahmed/count.svg" />
+</p>
