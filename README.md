@@ -1,4 +1,4 @@
-### Hi there 👋,I am Suraj, a Javascript developer, and crypto/blockchain enthusiast. I am on a mission to make tech and the web accessible to everyone from any background.  I love writing articles about javascript and react and on my freetime i answer questions on stackoverflow. 
+### Hi there 👋,I am Suraj, a Javascript developer, and crypto/blockchain enthusiast. I am on a mission to make tech and the web accessible to everyone from any background.  I love writing tutorial and articles about software development and occasionally answer questions on stackoverflow. 
 
 
 - 🔭 I’m currently building decentralized finance on bitcoin  [Defichain](https://defichain.com)
