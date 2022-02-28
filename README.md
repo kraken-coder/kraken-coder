@@ -8,14 +8,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love video games and cooking. 
 
+### Stack Overflow & Stack Exchange Stats
+
+
+<a href="https://stackoverflow.com/users/12558956/suraj-auwal"><img src="https://stackoverflow.com/users/flair/12558956.png?theme=dark" width="208" height="58" alt="profile for Suraj Auwal on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Suraj Auwal on Stack Overflow, a network of free, community-driven Q&amp;A sites" /></a>
+
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
   <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/siradji/count.svg" />
 </p>
-
-
-### Stack Overflow & Stack Exchange Stats
-
-
-<a href="https://stackoverflow.com/users/12558956/suraj-auwal"><img src="https://stackoverflow.com/users/flair/12558956.png?theme=dark" width="208" height="58" alt="profile for Suraj Auwal on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Suraj Auwal on Stack Overflow, a network of free, community-driven Q&amp;A sites" /></a>
