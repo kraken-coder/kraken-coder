@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning C++, Solidity and blockchain developement
 - 👯 I’m looking to collaborate on anything javascript or typeScript.
 - 📫 How to reach me: [Email](siradjiawoual@gmail.com),  [Linkedin](https://linkedin.com/in/siradji), [Medium](https://siradji.medium.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love video games and cooking. 
 
 ### Stack Overflow & Stack Exchange Stats
